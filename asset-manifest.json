@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meshubhampol-F4-Contest-1-March-Shubham-Pol/static/css/main.44ab6939.css",
+    "main.js": "/meshubhampol-F4-Contest-1-March-Shubham-Pol/static/js/main.3d0cd383.js",
+    "index.html": "/meshubhampol-F4-Contest-1-March-Shubham-Pol/index.html",
+    "main.44ab6939.css.map": "/meshubhampol-F4-Contest-1-March-Shubham-Pol/static/css/main.44ab6939.css.map",
+    "main.3d0cd383.js.map": "/meshubhampol-F4-Contest-1-March-Shubham-Pol/static/js/main.3d0cd383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ab6939.css",
+    "static/js/main.3d0cd383.js"
+  ]
+}
